@@ -7,3 +7,5 @@ hello friends i am sachin k singh
 olny pull command
 
 hello i am changing on local machine
+
+hii new branch-2
